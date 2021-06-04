@@ -13,9 +13,9 @@ from .translation import Translation
 # Created https://github.com/MRK-YT 
 UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL")
 
-MT_CHANNEL_USERNAME = os.environ.get("ID_ME")
+MT_CHANNEL_USERNAME = os.environ.get("ID_MEUSERNAME")
 
-MASSAGE_PHOTO = os.environ.get("MGE_TPH")
+MASSAGE_PHOTO = os.environ.get("MGE_PHOTO")
 
 MRK_YT_MASTER = os.environ.get("NAME")
 
