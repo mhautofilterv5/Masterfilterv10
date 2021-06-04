@@ -23,15 +23,31 @@
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
+        "CHANNEL": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
-        "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @MT_UserSession_BoT",
+        "GROUP": {
+            "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "START_PHOTO": {
+        "ID_MEUSERNAME": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "MGE_PHOTO": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "NAME": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @MT_UserSession_BoT",
             "value": ""
         },
