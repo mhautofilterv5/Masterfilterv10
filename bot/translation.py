@@ -22,11 +22,9 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Malluzhub Pro Auto Filter Bot</b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MALLUZHUB">👤malluzteams</a></b>
+<b>➥ 🎬Channel</b> : <b><a href="https://t.me/MALLUZHUB">👤malluzteams</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
-
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
 <b>➥ 📖Source Code</b> : <b><a href="https://github.com/mhautofilterv5/Autofiltermhv5">💥Click Me</a></b>
 """
