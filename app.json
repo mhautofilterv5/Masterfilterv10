@@ -1,15 +1,17 @@
 {
     "name": "Pro Auto Filter Bot V2",
-    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
+    "description": "Pro Auto Filter BoT V2 @MRK_YT",
     "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.png",
     "keywords": [
+        "Pro",
         "Auto",
         "Filter",
-        "Mongo DB"
+        "Bot",
+        "V2"
     ],
     "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MuhammedRk/AutoFiltersBot-V2",
-    "success_url": "https://telegram.dog/mo_tech_yt/26",
+    "repository": "https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2",
+    "success_url": "https://telegram.dog/mo_tech_yt,
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
