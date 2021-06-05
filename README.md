@@ -1,6 +1,6 @@
-# Pro-Auto-Filter-Bot
+### Pro-Auto-Filter-Bot-V2
 
-## Dev Details 👤:
+#### Dev Details 👤:
 
 <p align="middle">
 <img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="150" height="150"><br>
@@ -18,7 +18,7 @@
 [![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/mrk_yt)
 [![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/mo_Tech_yt)
 
-dv Auto Filter Bot V2
+##### Pro Auto Filter Bot V2
 
 <p align="center">
   <a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2/stargazers">
@@ -37,7 +37,7 @@ __This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
 
-## Usage
+#### Usage
 
 **__How To Use Me!?__**
 
@@ -73,13 +73,13 @@ OR
 
     * -> Status - Button will show the stats of your current group
 
-### Pre Requisites 
+#### Pre Requisites 
 ------------------
 
 <i>**[Watch Deploying Tutorial...]()**</i>
 
 
-## Deploy
+#### Deploy
 You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...]()**</i>
@@ -105,19 +105,19 @@ python3 -m bot
 </p>
 </details>
 
-## Support   
+#### Support   
 Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
 
-## Disclaimer
+#### Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL v3.0.](https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
-## Credits
+#### Credits
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
