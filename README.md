@@ -76,13 +76,13 @@ OR
 #### Pre Requisites 
 ------------------
 
-<i>**[Watch Deploying Tutorial...]()**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/OTqZmADyOjU)**</i>
 
 
 #### Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...]()**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/OTqZmADyOjU)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
