@@ -32,7 +32,7 @@ dv Auto Filter Bot V2
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/MRK-YT/Pro-Auto-Filter-Bot)..__
+__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Pro-Filter-Bot-V2](https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -79,8 +79,6 @@ OR
 <i>**[Watch Deploying Tutorial...]()**</i>
 
 
-#### PR's Are Very Welcome
-
 ## Deploy
 You can deploy this bot anywhere.
 
@@ -99,7 +97,7 @@ You can deploy this bot anywhere.
 <p>
 <pre>
 git clone https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2/tree/blob/main
-cd Pro-Auto-Filter-Bot-ReMaster
+cd Pro-Auto-Filter-Bot-V2-ReMaster
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
