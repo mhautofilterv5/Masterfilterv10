@@ -126,7 +126,8 @@ async def auto_filter(bot, update):
             
             results.append(
                 [
-                    InlineKeyboardButton(button_text, url=file_link), 
+                    InlineKeyboardButton(button_text, url=file_link),
+                    InlineKeyboardButton(file_size, callback_data="ignore"),
                 ]
             )
         
@@ -152,8 +153,7 @@ async def auto_filter(bot, update):
         if len_result != 1:
             result[0].append(
                 [
-                    InlineKeyboardButton("𝙽𝚎𝚡𝚝»»", callback_data=f"navigate(0|next|{query})"),
-                    InlineKeyboardButton(file_size, callback_data="ignore"), 
+                    InlineKeyboardButton("𝙽𝚎𝚡𝚝»»", callback_data=f"navigate(0|next|{query})")
                 ] 
             )
         
