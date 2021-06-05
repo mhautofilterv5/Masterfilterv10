@@ -23,35 +23,35 @@
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "CHANNEL": {
-            "description": "Your Bot Token From @BotFather",
+        "C_ID_START": {
+            "description": "C_ID_START : Watch Tutorial Video😁",
             "value": ""
         },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
-        "GROUP": {
-            "description": "Your Bot Token From @BotFather",
+        "G_ID_START": {
+            "description": "G_ID_START : Watch Tutorial Video😁",
             "value": ""
         },
-        "ID_MEUSERNAME": {
-            "description": "Your Bot Token From @BotFather",
+        "JOIN_MAIN_CHANNEL": {
+            "description": "JOIN_MAIN_CHANNEL : Watch Tutorial Video😁",
             "value": ""
         },
-        "MGE_PHOTO": {
-            "description": "Your Bot Token From @BotFather",
-            "value": ""
+        "BOT_MASTER": {
+            "description": "MASTER_BOT : Watch Tutorial Video😁",
+            "value": "Skp_kp"
         },
-        "NAME": {
-            "description": "Your Bot Token From @BotFather",
-            "value": ""
-        },
-        "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @MT_UserSession_BoT",
+        "TEXT_MEG_PH": {
+            "description": "TEXT_MEG_PH : Watch Tutorial Video😁",
             "value": ""
         },
         "UPDATE_CHANNEL": {
+            "description": " UPDATE_CHANNEL : Watch Tutorial Video😁",
+            "value": ""
+        },
+        "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @MT_UserSession_BoT",
             "value": ""
         }
