@@ -1601,14 +1601,14 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Pro Auto File Filter Bot</i>\n"
-    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/Mo_TECH_YT">MoTechYT</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/MRK_YT/Pro-Auto-Filter-Bot">Source</a>"""
+    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/MALLUZHUB">Malluteams</a>\n"""
+    text+="""\n<b><i>Update channel:</i></b> <a href="https://t.me/mhmovieupdates">update</a>"""
 
     buttons = [
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/MRK_YT"
+                    "Master ⚡", url="https://t.me/vaathi_comin_g"
                 ),
                 
             InlineKeyboardButton
@@ -1639,17 +1639,17 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/MRK_YT'),
-            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('😈𝙼aster', url='https://t.me/MALLUZHUB'),
+            InlineKeyboardButton('TEAM 🚧', url='https://t.me/mhmovieupdates')
         ],[
-            InlineKeyboardButton('🖥️ 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 🖥️', url='https://youtu.be/OTqZmADyOjU')
+            InlineKeyboardButton('Our group 🚧', url='https://t.me/malluhubbmovies')
         ],[
-            InlineKeyboardButton('⚙️ 𝙷𝚎𝚕𝚙 ⚙️', callback_data="help")
+            InlineKeyboardButton('⚙️ 𝙷𝚎𝚕𝚙 🥱', callback_data="help")
         ],[
-            InlineKeyboardButton('🗣️ 𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/Mo_Tech_group'),
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜 🤖', url='https://t.me/Mo_Tech_YT')
+            InlineKeyboardButton('🚯 𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/malluhubbmovies'),
+            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜 🎬', url='https://t.me/MALLUZHUB')
         ],[
-            InlineKeyboardButton('💥 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 💥', url='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ')
+            InlineKeyboardButton('🎥😍 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 🚀', url='https://youtube.com/c/LOStWorldBGM')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1682,13 +1682,13 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤 @𝙼𝚛𝚔_𝚈𝚃', url='https://t.me/MRK_YT'),
-            InlineKeyboardButton('@𝚂𝚔𝚙_𝙺𝚙 👤', url='https://t.me/Skp_Kp')
+            InlineKeyboardButton('😈 @𝙼aster', url='https://t.me/MALLUZHUB'),
+            InlineKeyboardButton('@grouo 🚧', url='https://t.me/malluhubbmovies')
         ],[
             InlineKeyboardButton('👤 @𝙰𝚕𝚋𝚎𝚛𝚝𝙴𝚒𝚗𝚜𝚝𝚎𝚒𝚗𝚃𝙶 👤', url='https://t.me/AlbertEinsteinTG')
         ],[
-            InlineKeyboardButton('🏠 𝙷𝚘𝚖𝚎', callback_data='start'),
-            InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 🔐', callback_data='close')
+            InlineKeyboardButton('🌃 𝙷𝚘𝚖𝚎', callback_data='start'),
+            InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 😪', callback_data='close')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
