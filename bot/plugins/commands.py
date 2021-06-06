@@ -162,7 +162,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton(' 𝙼alluteamz 🎭', url='https://t.me/malluhubbmovies'),
+        InlineKeyboardButton('𝙼alluteamz 🎭', url='https://t.me/malluhubbmovies'),
         InlineKeyboardButton('Main channel ❤️', url='https://t.me/MALLUZHUB')
     ],[
         InlineKeyboardButton('Main 😈', url='https://t.me/vaathi_comin_g')
