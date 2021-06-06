@@ -33,7 +33,7 @@ async def start(bot, update):
             )
             return
         except Exception:
-            await update.reply_text("<b>This bot should be the admin on your update channel</b>\n\n<b>🗣️ any Doubt @malluhubbmovies</b>")
+            await update.reply_text("<b>This bot should be the admin on your update channel</b>\n\n<b>🗣️ any Doubt @vetrimaran_thalapathy</b>")
             return    
     try:
         file_uid = update.command[1]
@@ -61,7 +61,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎬 OUR CHANNEL 🎬', url="https://t.me/MALLUZHUB"
+                                    '🎬 OUR CHANNEL 🖤', url="https://t.me/MALLUZHUB"
                                 )
                         ]
                     ]
@@ -80,7 +80,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎬 OUR CHANNEL 🎬', url="https://t.me/MALLUZHUB"
+                                    '🎬 OUR CHANNEL 🖤', url="https://t.me/MALLUZHUB"
                                 )
                         ]
                     ]
@@ -99,7 +99,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎬 OUR CHANNEL 🎬', url="https://t.me/MALLUZHUB"
+                                    '🎬 OUR CHANNEL 🖤', url="https://t.me/MALLUZHUB"
                                 )
                         ]
                     ]
@@ -112,15 +112,15 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('OWNER 😈', url='https://t.me/MALLUZHUB'),
-        InlineKeyboardButton('𝙷𝚎𝚕𝚙 🥱', callback_data="help")
+        InlineKeyboardButton('OWNER 😈', url='https://https://t.me/vetrimaran_thalapathy'),
+        InlineKeyboardButton(സഹായം 🥱', callback_data="help")
     ],[
         InlineKeyboardButton('👩‍👩‍👧 𝙶𝚛𝚘𝚞𝚙', url='https://t.me/malluhubbmovies'),
         InlineKeyboardButton('𝙲𝚑𝚊𝚗𝚗𝚎𝚕 🔊', url='https://t.me/MALLUZHUB')
     ],[
-        InlineKeyboardButton('🎥 OTHER CHANNEL 🎥', url='https://t.me/malluhubseries')
+        InlineKeyboardButton('🎥 OTHER CHANNEL ❤️', url='https://t.me/malluhubseries')
     ],[
-        InlineKeyboardButton('MOVIE UPDATE CHANNEL 🎬', url='https://t.me/mhmovieupdates'),
+        InlineKeyboardButton(' UPDATE CHANNEL 🎬', url='https://t.me/mhmovieupdates'),
         InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜 🚧', url='https://t.me/malluhubbmovies')
     ],[
         InlineKeyboardButton('🎭 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 💯', url='https://youtube.com/c/LOStWorldBGM')
@@ -162,10 +162,10 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('🎭 @𝙼alluteamz 🎭', url='https://t.me/malluhubbmovies'),
-        InlineKeyboardButton('@masterjd 🎭', url='https://t.me/MALLUZHUB')
+        InlineKeyboardButton(' 𝙼alluteamz 🎭', url='https://t.me/malluhubbmovies'),
+        InlineKeyboardButton('Main channel ❤️', url='https://t.me/MALLUZHUB')
     ],[
-        InlineKeyboardButton('👤 @𝙰𝚕𝚋𝚎𝚛𝚝𝙴𝚒𝚗𝚜𝚝𝚎𝚒𝚗𝚃𝙶 👤', url='https://t.me/AlbertEinsteinTG')
+        InlineKeyboardButton('Main 😈', url='https://t.me/vaathi_comin_g')
     ],[
         InlineKeyboardButton('🌃 𝙷𝚘𝚖𝚎', callback_data='start'),
         InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 🥱', callback_data='close')
