@@ -4,23 +4,23 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {} What's Up Mahn 😎!!</b>
+    START_TEXT = """<b>🙋‍♂️Hey {} What's Up Mahn 😎!!<n></b>
 
-<b>Am A Pro Auto Filter Bot V2 for MALLUZHUB....😈</b>
+<b><n>Am A Pro Auto Filter Bot V2 for MALLUZHUB....😈</n></b>
 
-<b>You Can't Add Me To Your Group And Channel🥱🥱</b>
+<b><n>ഈ ബോട്ട് ©Mallu Hub Movies ഗ്രൂപ്പിനു വേണ്ടി നിർമിച്ചതാണ്.Start കൊടുത്തു വെറുതെ സമയം പാഴാക്കല്ലേ സുഹൃത്തേ 😌..!</n></b>
 
-<b>Press /help to know about available commands😌</b>"""    
+<b><n>Press /help to know about available commands😌</b>"""    
     
     HELP_TEXT = """
 <b>🥱എന്തുവാ ഇത് !😈?</b>
 
-<b><n><i>ഈ ബോട്ട് ©Mallu Hub Movies ഗ്രൂപ്പിനു വേണ്ടി നിർമിച്ചതാണ്.Start കൊടുത്തു വെറുതെ സമയം പാഴാക്കല്ലേ സുഹൃത്തേ..! 
+<b><n><i>ഈ ബോട്ട് ©Mallu Hub Movies ഗ്രൂപ്പിനു വേണ്ടി നിർമിച്ചതാണ്.help കൊടുത്തു വെറുതെ സമയം പാഴാക്കല്ലേ സുഹൃത്തേ..! 
 നിങ്ങൾ പാഴക്കികളയുന്ന ഓരോ ടൈമും വിലപ്പെട്ടതാണ്..😌</i></n></b>
 <b><a href="https://t.me/MALLUZHUB">© malluhubbmovies</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Malluzhub Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ ✍️Name</b> : <b>Malluzhub Pro Auto Filter Bot</b>
 
 <b>➥ 🎬Channel</b> : <b><a href="https://t.me/MALLUZHUB">😈malluzteams</a></b>
 
