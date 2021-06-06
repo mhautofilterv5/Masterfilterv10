@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {} What's Up Mahn 😎!!<n></b>
+    START_TEXT = """<b>🙋‍♂️Hey {} What's Up Mahn 😎!!</b>
 
 <b><n>Am A Pro Auto Filter Bot V2 for MALLUZHUB....😈</n></b>
 
