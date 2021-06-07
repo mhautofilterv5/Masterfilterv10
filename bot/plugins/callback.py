@@ -1640,16 +1640,16 @@ async def callback_data(bot, update: CallbackQuery):
     if query_data == "start":
         buttons = [[
             InlineKeyboardButton('😈 𝙼aster', url='https://t.me/vetrimaran_thalapathy'),
-            InlineKeyboardButton('🎭 TEAM 🎭', url='https://t.me/MALLUZHUB')
+            InlineKeyboardButton('🎭 TEAM 🎭', url='https://t.me/MALLUZHUB'),
         ],[
-            InlineKeyboardButton('🚧 Our group 🚧', url='https://t.me/malluhubbmovies')
+            InlineKeyboardButton('🚧 Our group 🚧', url='https://t.me/malluhubbmovies'),
         ],[
             InlineKeyboardButton('𝙷𝚎𝚕𝚙 🥱', callback_data="help")
         ],[
             InlineKeyboardButton('🚯 𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/malluhubbmovies'),
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜 🎬', url='https://t.me/MALLUZHUB')
+            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜 🎬', url='https://t.me/MALLUZHUB'),
         ],[
-            InlineKeyboardButton('😍 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 🚀', url='https://youtube.com/c/LOStWorldBGM')
+            InlineKeyboardButton('😍 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 🚀', url='https://youtube.com/c/LOStWorldBGM'),
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1682,13 +1682,13 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('🎭 @𝙼aster', url='https://t.me/MALLUZHUB')
-            InlineKeyboardButton('@group 🎭', url='https://t.me/malluhubbmovies')
+            InlineKeyboardButton('🎭 @𝙼aster', url='https://t.me/MALLUZHUB'),
+            InlineKeyboardButton('@group 🎭', url='https://t.me/malluhubbmovies'),
         ],[
             InlineKeyboardButton('🍁 main man 😈', url='https://t.me/vaathi_comin_g'),
         ],[
             InlineKeyboardButton('🌃 𝙷𝚘𝚖𝚎', callback_data='start'),
-            InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 😪', callback_data='close')
+            InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 😪', callback_data='close'),
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
