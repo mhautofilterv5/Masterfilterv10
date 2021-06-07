@@ -112,7 +112,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('OWNER 😈', url='https://https://t.me/vetrimaran_thalapathy'),
+        InlineKeyboardButton('OWNER 😈', url='https://t.me/vetrimaran_thalapathy'),
         InlineKeyboardButton('help 🥱', callback_data="help")
     ],[
         InlineKeyboardButton('👩‍👩‍👧 𝙶𝚛𝚘𝚞𝚙', url='https://t.me/malluhubbmovies'),
