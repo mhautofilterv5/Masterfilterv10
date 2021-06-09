@@ -26,14 +26,14 @@ async def start(bot, update):
         except UserNotParticipant:
             #await update.reply_text(f"Join @{update_channel} To Use Me")
             await update.reply_text(
-                text="<b><n>♥️ 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗠𝗮𝗶𝗻 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 🥱\n\nനിങ്ങൾക്ക് സിനിമകൾ വേണോ ? അതിനായി ആദ്യം ഞ്ഞങ്ങളുടെ മെയിൻ ചാനലിൽ ജോയിൻ ചെയ്യണം... 🙈\n\nJoin ചെയ്തതിനു ശേഷം വീണ്ടും ബോട്ട് /start ചെയ്യൂ .🤩</n></b>",
+                text="<b>♥️ 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗠𝗮𝗶𝗻 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 🥱\n\nനിങ്ങൾക്ക് സിനിമകൾ വേണോ ? അതിനായി ആദ്യം ഞ്ഞങ്ങളുടെ മെയിൻ ചാനലിൽ ജോയിൻ ചെയ്യണം... 🙈\n\nJoin ചെയ്തതിനു ശേഷം വീണ്ടും ബോട്ട് /start ചെയ്യൂ .🤩</b>",
                 reply_markup=InlineKeyboardMarkup([
                     [ InlineKeyboardButton(text=" ♥️ 𝙹𝚘𝚒𝚗 𝙼𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 ♥️ ", url=f"https://t.me/MALLUZHUB")]
               ])
             )
             return
         except Exception:
-            await update.reply_text("<b>This bot should be the admin on your update channel</b>\n\n<b><n>⚙️ any Doubt @vetrimaran_thalapathy</n></b>")
+            await update.reply_text("<b>This bot should be the admin on your update channel</b>\n\n<b>⚙️ any Doubt @vetrimaran_thalapathy</b>")
             return    
     try:
         file_uid = update.command[1]
